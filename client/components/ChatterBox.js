@@ -43,6 +43,9 @@ class ChatterBox extends React.Component {
         userName: 'May',
         groupName: 'ABC',
       });
+      this.socket.on('message',(date) {
+        console.log(data);
+      })
   }
   onReceivedMessage(messages) {
     console.log(messages);
