@@ -58,8 +58,6 @@ PODS:
   - React/jschelpers (0.44.2)
   - React/RCTActionSheet (0.44.2):
     - React/Core
-  - React/RCTAnimation (0.44.2):
-    - React/Core
   - React/RCTGeolocation (0.44.2):
     - React/Core
   - React/RCTImage (0.44.2):
@@ -93,7 +91,6 @@ DEPENDENCIES:
   - react-native-maps (from `../node_modules/react-native-maps`)
   - React/Core (from `../node_modules/react-native`)
   - React/RCTActionSheet (from `../node_modules/react-native`)
-  - React/RCTAnimation (from `../node_modules/react-native`)
   - React/RCTGeolocation (from `../node_modules/react-native`)
   - React/RCTImage (from `../node_modules/react-native`)
   - React/RCTLinkingIOS (from `../node_modules/react-native`)
