@@ -5,7 +5,6 @@ target 'CarGo' do
     pod 'React', path: '../node_modules/react-native', :subspecs => [
     'Core',
     'RCTActionSheet',
-    'RCTAnimation',
     'RCTGeolocation',
     'RCTImage',
     'RCTLinkingIOS',
